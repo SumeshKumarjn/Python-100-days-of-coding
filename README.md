@@ -9,3 +9,5 @@ Day 03 - Concatenation
 Day 04 - Feel like a proper storyteller with the custom storybook that I coded up and add some colors to the variables to make it colorful
 
 Day 05 - If and else statement
+
+Day 06 - elif statement
