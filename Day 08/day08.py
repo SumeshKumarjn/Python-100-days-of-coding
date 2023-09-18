@@ -1,0 +1,10 @@
+print("Wholesome Positivity Machine")
+print()
+name = input("Who are you? ")
+if name == "David" or "david" :
+  print()
+  acheive = input("What you want to acheieve? ")
+print()
+now = input("On a scale of 1-10 how do you feel today? ")
+print()
+print("Hey",name,",keep ypur chin up! Today you're going to",acheive,"in the most amazing way, simply by being you - YOU ROCK!")
