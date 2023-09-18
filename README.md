@@ -12,4 +12,6 @@ Day 05 - If and else statement
 
 Day 06 - elif statement
 
-day 07 - Nesting
+Day 07 - Nesting
+
+Day 08 - Affirmation Generator
