@@ -15,3 +15,5 @@ Day 06 - elif statement
 Day 07 - Nesting
 
 Day 08 - Affirmation Generator
+
+Day 09 - Casting
