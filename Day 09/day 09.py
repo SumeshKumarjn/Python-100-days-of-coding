@@ -1,6 +1,0 @@
-print("Generation Identifier")
-print()
-name = input("Enter your name: ")
-year = int(input("Enter your year of born: "))
-print()
-print("Hah!",name,"you are of Generation Z!",year,"Avocado toast and Starbucks much!")
