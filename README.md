@@ -17,3 +17,5 @@ Day 07 - Nesting
 Day 08 - Affirmation Generator
 
 Day 09 - Casting
+
+Day 10 - Tip Calculator using basic fundementals of maths
