@@ -19,3 +19,6 @@ Day 08 - Affirmation Generator
 Day 09 - Casting
 
 Day 10 - Tip Calculator using basic fundementals of maths
+
+Day 11 - How many secounds in a year? CODE CHALLENGE
+
