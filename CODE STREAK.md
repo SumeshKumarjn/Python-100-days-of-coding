@@ -22,3 +22,5 @@ Day 10 - Tip Calculator using basic fundementals of maths
 
 Day 11 - How many secounds in a year? CODE CHALLENGE
 
+Day 12 - Debugging the provided code :)
+
