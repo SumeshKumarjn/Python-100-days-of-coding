@@ -25,3 +25,5 @@ Day 11 - How many secounds in a year? CODE CHALLENGE
 Day 12 - Debugging the provided code :)
 
 Day 13 - Created a Grade Calculator!
+
+Day 14 - Created a Rock,Paper,Scissors Game!
