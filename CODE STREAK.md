@@ -28,4 +28,4 @@ Day 13 - Created a Grade Calculator!
 
 Day 14 - Created a Rock,Paper,Scissors Game!
 
-Day 15 - While Loop
+Day 15 - While Loop and infinite loop concepts
