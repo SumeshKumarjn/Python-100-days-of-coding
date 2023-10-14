@@ -32,4 +32,4 @@ Day 15 - While Loop and infinite loop concepts
 
 Day 16 - While True Loop
 
-Day 17 - While True Loop with Continue and exit() statement
+Day 17 - While True Loop with Continue statement and exit() function
