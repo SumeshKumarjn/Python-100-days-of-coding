@@ -35,3 +35,5 @@ Day 16 - While True Loop
 Day 17 - While True Loop with Continue statement and exit() function
 
 Day 18 - Project Day (Number Guessing Game)
+
+Day 19 - For Loop 
