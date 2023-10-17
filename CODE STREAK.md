@@ -38,3 +38,4 @@ Day 18 - Project Day (Number Guessing Game)
 
 Day 19 - For Loop 
 
+Day 20 - Range varient (Starting Value , Ending Value , Increment Value) in for loop 
