@@ -39,3 +39,5 @@ Day 18 - Project Day (Number Guessing Game)
 Day 19 - For Loop 
 
 Day 20 - Range varient (Starting Value , Ending Value , Increment Value) in for loop 
+
+Day 21 - Created a Math Game using for loop , if and else statement and used counter statment [Project Day]
