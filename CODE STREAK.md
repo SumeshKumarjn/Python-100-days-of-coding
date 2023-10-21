@@ -45,3 +45,6 @@ Day 21 - Created a Math Game using for loop , if and else statement and used cou
 Day 22 - Libraries
 
 Day 23 - SubRoutine
+
+Day 24 - Parameter
+
