@@ -52,4 +52,4 @@ Day 25 - Return Command
 
 Day 26 - OS Command
 
-Day 27 - Challenge Day
+Day 27 - Challenge Day (Character Builder!)
