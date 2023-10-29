@@ -53,3 +53,5 @@ Day 25 - Return Command
 Day 26 - OS Command
 
 Day 27 - Challenge Day (Character Builder!)
+
+Day 28 - "Automated Game Battle System" (Challenge of the day!)
