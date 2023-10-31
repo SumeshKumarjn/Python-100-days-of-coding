@@ -1,5 +1,5 @@
 print("=== Your Adventure Simulator ===")
-print("""You'll be asked a bunch of questions then we'll make you up an amazing story with You as the satr! 😎""")
+print("""You'll be asked a bunch of questions then we'll make you up an amazing story with You as the star! 😎""")
 print()
 name = input("Your name: ")
 enemy = input("Your worst enemy's name: ")
