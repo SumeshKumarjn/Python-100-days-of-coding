@@ -59,3 +59,5 @@ Day 28 - "Automated Game Battle System" (Challenge of the day!)
 Day 29 - "End statement with new line , tab and vertical tab"
 
 Day 30 - F-string
+
+Day 31 - Challenge Day :)
