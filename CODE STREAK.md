@@ -61,3 +61,5 @@ Day 29 - "End statement with new line , tab and vertical tab"
 Day 30 - F-string
 
 Day 31 - Challenge Day :)
+
+Day 32 - LIST
