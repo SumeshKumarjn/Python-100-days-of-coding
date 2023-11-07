@@ -63,3 +63,5 @@ Day 30 - F-string
 Day 31 - Challenge Day :)
 
 Day 32 - LIST
+
+Day 33 - Dynamic Lising (append , remove)
