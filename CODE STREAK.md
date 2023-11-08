@@ -65,3 +65,5 @@ Day 31 - Challenge Day :)
 Day 32 - LIST
 
 Day 33 - Dynamic Lising (append , remove)
+
+Day 34 - Pretty Print Function
