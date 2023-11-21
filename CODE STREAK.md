@@ -71,3 +71,5 @@ Day 34 - Pretty Print Function
 Day 35 - Project Day [Ultimate List]
 
 Day 36 - String Manipulation
+
+Day 37 - String Slicing
