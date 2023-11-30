@@ -79,3 +79,5 @@ Day 38 - Strings and Loops
 Day 39 - Hangman Game [PROJECT DAY]
 
 Day 40 - Dictionaries
+
+Day 41 - Dictionaries with loop
