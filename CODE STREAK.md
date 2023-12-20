@@ -85,3 +85,5 @@ Day 41 - Dictionaries with loop
 Day 42 - Project Day [MOKEBEAST]
 
 Day 43 - 2D List
+
+Day 44 - 2D Dynamic List
