@@ -115,3 +115,5 @@ Day 56 - Music Streaming Service
 Day 57 - Recursion
 
 Day 58 - Debugging
+
+Day 59 - Palindrom
